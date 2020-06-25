@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="quiz" cloudDestinationProperty="quiz" uiid="quizform" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" uiid="question12" >
+  </component>
+</component>
